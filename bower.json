@@ -1,0 +1,17 @@
+{
+  "name": "project",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "chandan"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/csharma2212/angular-and-node",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
